@@ -1,1 +1,1 @@
-# Impedance-Analyser-Kicad
+# Impedance Analyser Kicad
